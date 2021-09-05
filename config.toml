@@ -47,24 +47,25 @@ link = "plugins/lazy-load/lozad.min.js"
 link = "plugins/google-map/map.js"
 
 ################### German Navigation ########################
+
 [[Languages.de.menu.main]]
 name = "Über mich"
 url = "#feature"
 weight = 1
 
 [[Languages.de.menu.main]]
+name = "Neues"
+url = "#blog"
+weight = 2
+
+[[Languages.de.menu.main]]
 name = "Galerie"
 url = "#portfolio"
-weight = 2
+weight = 3
 
 [[Languages.de.menu.main]]
 name = "Kontakt"
 url = "#contact"
-weight = 3
-
-[[Languages.de.menu.main]]
-name = "Neues"
-url = "/blog"
 weight = 4
 
 [[Languages.de.menu.main]]
